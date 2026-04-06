@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gaurav%20Manju&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=80&lines=MSc+AI+%40+University+of+Leicester+%F0%9F%87%AC%F0%9F%87%A7;Ex-ISRO+%7C+DRDO+%7C+Tech+Mahindra+%F0%9F%9A%80;Building+AI-Driven+Solutions+for+Real-World+Problems+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=80&lines=MSc+AI+%40+University+of+Leicester+%F0%9F%87%AC%F0%9F%87%A7;Ex-ISRO+%7C+DRDO+%7C+Tech+Mahindra+%F0%9F%9A%80;Building+AI-Driven+Solutions+for+Real-World+Problems+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-manju/" target="_blank">
